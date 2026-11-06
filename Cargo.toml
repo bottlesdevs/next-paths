@@ -1,0 +1,15 @@
+[package]
+name = "next-paths"
+description = "Application identity and filesystem locations shared by Bottles Next crates."
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+repository = "https://github.com/bottlesdevs/next-paths/"
+homepage = ""
+categories = [""]
+keywords = [""]
+exclude = [""]
+
+[dependencies]
+directories.workspace = true
